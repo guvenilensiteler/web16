@@ -16,6 +16,19 @@
         "slider_img": ""
       },
       {
+        "url": "https://bit.ly/ogexmariobet",
+        "desc": [
+          "ÜYE OL DENEME BONUSUNU AL!"
+        ],
+        "site": "mariobet",
+        "sort": null,
+        "color": "#f16227",
+        "miktar": "₺888",
+        "promo_code": "ogeday888",
+        "promo_code_lowercase": true,
+        "slider_img": ""
+      },
+      {
         "url": "https://bit.ly/ogextarafbet",
         "desc": [
           "100$ KAYIT BONUSU"
@@ -39,6 +52,18 @@
         "miktar": "₺888",
         "promo_code": "OGEDAY888",
         "elmas": "ayin-sitesi.webp",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexbetewin",
+        "desc": [
+          "999TL KAYIT BONUSU"
+        ],
+        "site": "betewin",
+        "sort": null,
+        "color": "#ff8d14",
+        "miktar": "₺999",
+        "promo_code_yok": "KAYIT OL 999TL BONUS AL",
         "slider_img": ""
       },
       {
@@ -210,36 +235,44 @@
             "sort": "1"
           },
           {
-            "site": "tarafbet",
+            "site": "mariobet",
             "sort": "2"
           },
           {
-            "site": "betkom",
+            "site": "tarafbet",
             "sort": "3"
           },
           {
-            "site": "bahiscom",
+            "site": "betkom",
             "sort": "4"
           },
           {
-            "site": "betkanyon",
+            "site": "betewin",
             "sort": "5"
           },
           {
-            "site": "matadorbet",
+            "site": "bahiscom",
             "sort": "6"
           },
           {
-            "site": "fixbet",
+            "site": "betkanyon",
             "sort": "7"
           },
           {
-            "site": "galabet",
+            "site": "matadorbet",
             "sort": "8"
           },
           {
-            "site": "sekabet",
+            "site": "fixbet",
             "sort": "9"
+          },
+          {
+            "site": "galabet",
+            "sort": "10"
+          },
+          {
+            "site": "sekabet",
+            "sort": "11"
           }
         ]
       },
