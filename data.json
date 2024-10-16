@@ -56,18 +56,6 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ogexbetturkey",
-        "desc": [
-          "CANLI DESTEĞE BAĞLAN, BONUSUNU AL!"
-        ],
-        "site": "betturkey",
-        "sort": null,
-        "color": "#ffdd3a",
-        "miktar": "₺500",
-        "promo_code": "OGEDAY500",
-        "slider_img": ""
-      },
-      {
         "url": "https://bit.ly/ogexbetkanyon",
         "desc": [
           "KAYIT OL PROMOSYON KODUNU GİR"
@@ -234,28 +222,24 @@
             "sort": "4"
           },
           {
-            "site": "betturkey",
+            "site": "betkanyon",
             "sort": "5"
           },
           {
-            "site": "betkanyon",
+            "site": "matadorbet",
             "sort": "6"
           },
           {
-            "site": "matadorbet",
+            "site": "fixbet",
             "sort": "7"
           },
           {
-            "site": "fixbet",
+            "site": "galabet",
             "sort": "8"
           },
           {
-            "site": "galabet",
-            "sort": "9"
-          },
-          {
             "site": "sekabet",
-            "sort": "10"
+            "sort": "9"
           }
         ]
       },
